@@ -1,1 +1,4 @@
 # the-temperature-in-degree-contigrade-to-fahrreheit
+c=input("Enter temperature in Centigrade:")
+f=(9*(int(c))/5)+32
+print("Temperature in Fahrenheit is:".f)
